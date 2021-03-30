@@ -1,4 +1,4 @@
 ---
-title: "yes"
-date: 2021-3-30
+title: "Your blog post title"
+date: 2021-03-30
 ---
